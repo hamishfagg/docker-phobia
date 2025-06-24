@@ -52,7 +52,7 @@ require (
 	github.com/spf13/pflag v1.0.5 // indirect
 	github.com/spf13/viper v1.4.0 // indirect
 	github.com/urfave/cli/v2 v2.27.2 // indirect
-	github.com/wagoodman/dive v0.12.0 // indirect
+	github.com/wagoodman/dive v0.13.1 // indirect
 	github.com/xlab/treeprint v1.2.0 // indirect
 	github.com/xrash/smetrics v0.0.0-20240312152122-5f08fbb34913 // indirect
 	golang.org/x/net v0.17.0 // indirect
