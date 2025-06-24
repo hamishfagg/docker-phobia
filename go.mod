@@ -1,4 +1,4 @@
-module github.com/remorses/docker-phobia
+module github.com/hamishfagg/docker-phobia
 
 go 1.20
 
