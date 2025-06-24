@@ -1,4 +1,4 @@
-module github.com/hamishfagg/docker-phobia/ls-tar
+module github.com/remorses/docker-phobia/ls-tar
 
 go 1.22.3
 
